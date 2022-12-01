@@ -1,6 +1,8 @@
-### Hi there 👋
+![enter image description here](https://github.com/LilaAlvesDC/LilaAlvesDC/blob/main/1662052240068.jfif)
 
 <!--
+
+### Hi there 👋
 **LilaAlvesDC/LilaAlvesDC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
